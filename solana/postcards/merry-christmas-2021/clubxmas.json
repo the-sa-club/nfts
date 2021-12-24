@@ -1,0 +1,42 @@
+{
+   "name":"Merry Christmas 2021!",
+   "symbol":"CLUBXMAS21",
+   "description":"The Club Guild wishes you a very Merry Christmas 2021 and a prosperous new year as we move into 2022 with Star Atlas! \n\nAt The Club Guild, we give back to our community, we strive to constantly innovate and we hope we show that by delivering our first NFT Christmas card airdrop!\n\nJoin The Club today on Discord and let’s grow the Metaverse together!",
+   "seller_fee_basis_points":0,
+   "image":"<insert>",
+   "external_url":"https://discord.gg/the-sa-club",
+   "attributes":[
+      {
+         "display_type":"string",
+         "trait_type":"artist",
+         "value":"rand0mograph"
+      }
+   ],
+   "collection":{
+      "name":"Postcards",
+      "family":"The Club"
+   },
+   "properties":{
+      "files":[
+         {
+            "uri":"<insert>",
+            "type":"image/png"
+         }
+      ],
+      "category":"image",
+      "creators":[
+         {
+            "address":"<insert>",
+            "share":100
+         }
+      ],
+      "markets":[
+         {
+            "id":"<insert>",
+            "quotePair":"ATLAS",
+            "serumProgramId":"9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin"
+         }
+      ]
+   },
+   "mint":"<isnert>"
+}
