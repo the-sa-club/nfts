@@ -1,0 +1,42 @@
+{
+   "name":"Club City",
+   "symbol":"CLUBCITY",
+   "description":"Welcome to Club City, an NFT city rich in history, lore and stories. Currently home to a community of over 2000 dedicated and welcoming members, all working hard to ensure the future success of the metaverse and play-to-earn gaming. \nAs our member population increases and contributes to The Club Guild, so the city grows and expands with it, with more to discover around each corner!\nMetaverse explorers, come in from the cold, replenish your supplies, meet new friends and restore your energy for the next expedition. \nYou will always be welcome at Club City! \nThis is the first NFT issued by The Club Guild to reward its early members.\n",
+   "seller_fee_basis_points":0,
+   "image":"https://www.arweave.net/ltoxSHL4Jp-jwnncZvErLCUA3u89HpioJgfaH5MmFbM?ext=png",
+   "external_url":"https://theclubguild.com/",
+   "attributes":[
+      {
+         "display_type":"string",
+         "trait_type":"artist",
+         "value":"Bogdan Tufecciu"
+      }
+   ],
+   "collection":{
+      "name":"Club City",
+      "family":"The Club"
+   },
+   "properties":{
+      "files":[
+         {
+            "uri":"https://www.arweave.net/ltoxSHL4Jp-jwnncZvErLCUA3u89HpioJgfaH5MmFbM?ext=png",
+            "type":"image/png"
+         }
+      ],
+      "category":"image",
+      "creators":[
+         {
+            "address":"4XFVvUxQuSLZ3eVHgrtRgDL7LKoQ8fgMhN1ZkeG97rmF",
+            "share":100
+         }
+      ],
+      "markets":[
+         {
+            "id":"6CGu3JKkqrcuRL1GajAwPoRqvkNcASpC6v9nqLtAuerk",
+            "quotePair":"ATLAS",
+            "serumProgramId":"9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin"
+         }
+      ]
+   },
+   "mint":"26eGgM5zvx2HdmUtBqg3U4DKoZbMXJTkEaTJfQmqoAze"
+}
